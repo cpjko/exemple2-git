@@ -1,4 +1,5 @@
-/Downloads
-        new file:   READMETO.md
+#Fichiers cachés
+password.md
+*.txt
+!README.txt
 
-Changes not staged for commit:

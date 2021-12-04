@@ -1,2 +1,7 @@
-pwd.md
+#ignore all .txt files
+*.txt
+!important.txt
+vendors/
+uploads/**/*.pdf
+
 
